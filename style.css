@@ -708,11 +708,12 @@ h2 {
     font-size: 22px;
     line-height: 1.4em;
 }
+.text-background{
+    background-color: #00000052;
+}
 
-h3 {
-    font-size: 15px;
+.uppercase-title{
     text-transform: uppercase;
-    font-weight: 700;
     color: #333333!important;
 }
 
