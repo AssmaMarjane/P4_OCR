@@ -708,11 +708,11 @@ h2 {
     font-size: 22px;
     line-height: 1.4em;
 }
-#bloc-5-cta>.text-background{
+h2 .text-background{
     background-color: #00000052;
 }
 
-h2>.uppercase-title{
+h2 .uppercase-title{
     text-transform: uppercase;
     color: #333333!important;
 }
