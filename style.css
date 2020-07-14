@@ -708,11 +708,8 @@ h2 {
     font-size: 22px;
     line-height: 1.4em;
 }
-h2 .text-background{
-    background-color: #00000052;
-}
 
-h2 .uppercase-title{
+h2.uppercase-title{
     text-transform: uppercase;
     color: #333333!important;
 }
@@ -755,7 +752,7 @@ h4 {
 }
 
 .black-background {
-    background-color: rgba(165, 147, 99, 0.7);
+    background-color: #00000052;
     padding: 40px 40px 40px 40px;
 }
 
@@ -777,7 +774,8 @@ h4 {
 }
 
 .tc-white {
-    color: white!important;
+    color: #FFFFFF!important;
+    background-color: #00000052;
 }
 
 .btn-atomic-tangerine {
