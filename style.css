@@ -133,7 +133,7 @@ a:hover {
 .d-bloc h5 a,
 .d-bloc h6 a,
 .d-bloc p a {
-    color: rgb(255, 255, 255,1);
+    color: rgb(7, 7, 7);
 }
 
 .d-bloc .a-btn:hover,
@@ -753,7 +753,7 @@ h4 {
 }
 
 .black-background {
-    background-color: #00000052;
+    background-color: #ccbdbd52;
     padding: 40px 40px 40px 40px;
 }
 
@@ -776,12 +776,12 @@ h4 {
 
 .tc-white {
     color: #0a0a0a!important;
-    background-color: #FFFFFF;
+    background-color: #ffffff7e;
 }
 
 .btn-atomic-tangerine {
-    background: #F3976C;
-    color: #FFFFFF!important;
+    background: #fcfaf9;
+    color: #0c0c0c!important;
 }
 
 .btn-atomic-tangerine:hover {
@@ -790,7 +790,7 @@ h4 {
 }
 
 .ltc-white {
-    color: #FFFFFF!important;
+    color: #0a0a0a!important;
 }
 
 .ltc-white:hover {
