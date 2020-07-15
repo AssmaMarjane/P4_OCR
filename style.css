@@ -271,7 +271,10 @@ a:hover {
 .voffset-lg {
     margin-top: 80px;
 }
-
+.row_page2{
+    display: flex;
+    flex-direction: column;
+}
 .row-no-gutters {
     margin-right: 0;
     margin-left: 0;
