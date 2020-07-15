@@ -100,7 +100,7 @@ a:hover {
 }
 
 .d-bloc {
-    color: rgb(255, 255, 255);
+    color: rgb(8, 8, 8);
 }
 
 .d-bloc button:hover {
@@ -133,7 +133,7 @@ a:hover {
 .d-bloc h5 a,
 .d-bloc h6 a,
 .d-bloc p a {
-    color: rgb(255, 255, 255);
+    color: rgb(255, 255, 255,1);
 }
 
 .d-bloc .a-btn:hover,
@@ -702,6 +702,7 @@ p {
 .social {
     max-width: 400px;
     margin: auto auto auto auto;
+    display: block;
 }
 
 h2 {
@@ -734,7 +735,7 @@ h4 {
 }
 
 .white {
-    color: #FFFFFF!important;
+    color: #070707!important;
 }
 
 .portfolio-thumb {
